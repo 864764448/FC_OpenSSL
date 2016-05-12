@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "FC_OpenSSL"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "OpenSSL."
 
   # This description is used to generate tags and improve search results.
@@ -81,7 +81,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/864764448/FC_OpenSSL.git", :tag => "0.0.2" }
+  s.source       = { :git => "https://github.com/864764448/FC_OpenSSL.git", :tag => "0.0.3" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
